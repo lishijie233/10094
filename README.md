@@ -1,5 +1,5 @@
 # 10094
-> Tech blog
+> Record my footprints and notes
 
 [开源之路第一步--Github项目同步](https://github.com/lishijie233/10094/blob/main/202101/10059.md)
 ```text
