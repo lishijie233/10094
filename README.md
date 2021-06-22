@@ -19,3 +19,5 @@ Topic 0[你打算做些啥呢](https://github.com/lishijie233/10094/blob/main/20
 Java IO 有三种模型, BIO/NIO/AIO  
 今天主要讲的是 BIO 
 ```
+
+准备搞个多租户系统
